@@ -1,0 +1,84 @@
+body{
+    background-image: url(5555.jpg) ;
+    background-size: contain;
+    margin: 0%;
+    background-repeat:repeat;
+}
+header {
+    background-image: url(5555.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+nav {
+    background-color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 15px;
+    margin: auto;
+}
+h2{
+    color:white;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.drei{
+    font-weight: bolder;
+    color: black;
+    font-style: oblique;
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 20px;
+    padding: 20px;
+    width: 800px;
+    height: 70px;
+}
+.video{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40% ;
+}
+.image{ 
+    border-radius: 50px;
+    width: 40%;
+    height: auto;
+    float:right
+}
+table, th, td {
+    border: 1px solid;
+  }
+.list{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 10x;    
+}
+
+nav a {
+    color:black ;
+    margin: 2%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.cadre{
+    border-radius: 5px;
+    border-color: black;
+    background-color: rgb(220, 245, 241);
+}
+input[type=submit] 
+{
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: black;
+    padding: auto;
+    border-width: 7px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
